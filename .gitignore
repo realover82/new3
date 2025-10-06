@@ -7,3 +7,8 @@ __pycache__/
 
 # Jupyter Notebook 체크포인트 파일 제외
 .ipynb_checkpoints/
+
+# histo 폴더 전체 제외 (추가)
+histo/ 
+dealim250827/
+dealim251002/
